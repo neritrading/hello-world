@@ -1,6 +1,4 @@
 # hello-world
 just another repository
 
-initiate the r2x
-
-possible quest of rtx
+R2x of RTX
