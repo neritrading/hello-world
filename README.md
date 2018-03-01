@@ -1,6 +1,4 @@
 # hello-world
 just another repository
 
-Initiate R2X
-
-Explore RTX
+R2x of RTX
